@@ -166,10 +166,8 @@ params:
         - "Python"
         - "Java"
         - "Angular"
-        - "Ionic"
-        - "Bootstrap"
         - "Node.js"
-    
+        - "Elixir"
 
   # Experience
   experience:

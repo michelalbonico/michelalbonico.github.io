@@ -130,8 +130,8 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/michelalbonico
-        - icon: fab fa-twitter
-          url: https://twitter.com/michelalbonico
+        - icon: fab fa-bluesky
+          url: https://bsky.app/profile/michelalbonico.bsky.social
         - icon: fas fa-book-open
           url: https://scholar.google.com.br/citations?user=pazJN8cAAAAJ&hl=en
         - icon: fas fa-users

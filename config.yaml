@@ -114,7 +114,7 @@ params:
     enable: true
     #intro: "Hi, I am"
     title: "Michel Albonico"
-    subtitle: "Associate Professor at UTFPR, Brazil"
+    subtitle: "Associate Professor at SDU, Vejle - Denmark"
     content: "I absolutely love teaching and diving into research. Being hands-on with cool tech and getting involved with software development really gets me going!"
     image: /images/me.jpeg
     bottomImage:
@@ -146,15 +146,10 @@ params:
     title: "About Me"
     image: /images/eu-robo.jpg
     content: |-
-      I am an Associate Professor at the Federal University of Technology - Paraná (UTFPR), Brazil, where I teach software engineering and distributed programming.
-      I am one of the leaders of the IntelAgir research group and work on multiple research and innovation projects. 
-      I hold a Ph.D. in Software Engineering from IMT Atlantique, Nantes, France, and have pursued international experience through 
-      postdoctoral research in Amsterdam (S2 Group, VU Amsterdam), Stuttgart (ICM, University of Stuttgart), and Porto (INESC TEC, University of Porto). 
-      Currently, I am also leading the Computer Science/Informatics Department at the campus Francisco Beltrão.
-
-      My research focuses on software engineering for cybernetic systems, including robotics and IoT, particularly interested in industrial robotics and collaborative 
-      projects using the Robotic Operating System (ROS).
-
+      I am an Associate Professor at the University of Southern Denmark (SDU) in Vejle. I am currently on leave from my associate professorship at the Federal University of Technology – Paraná (UTFPR), Brazil. At SDU, I teach Software Engineering courses.
+      In Brazil, I previously taught Software Engineering and Distributed Programming, served as one of the leaders of the IntelAgir research group, and worked on multiple research and innovation projects. I remain a Permanent Professor in the PPGCA Master’s Program at UTFPR in Curitiba, where I continue to collaborate remotely.
+      I hold a Ph.D. in Software Engineering from IMT Atlantique in Nantes, France, and have gained extensive international experience through postdoctoral research positions in Amsterdam (S2 Group, VU Amsterdam), Stuttgart (ICM, University of Stuttgart), and Porto (INESC TEC, University of Porto).
+      My research focuses on software engineering for cyber-physical and cybernetic systems, including robotics and the Internet of Things (IoT). I am particularly interested in industrial robotics and collaborative projects using the Robot Operating System (ROS).
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -353,7 +348,7 @@ params:
     enable: true
     # title: "Custom Name"
     content: I am always open for adventures and exciting collaborations!
-    email: michelalbonico@utfpr.edu.br
+    email: michelalbonico@utfpr.edu.br, mical@mmmi.sdu.dk
     btnName: Mail me
     # formspree:
     #   enable: true # `contact.email` value will be ignored

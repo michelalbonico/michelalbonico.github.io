@@ -151,14 +151,26 @@ params:
       I hold a Ph.D. in Software Engineering from IMT Atlantique in Nantes, France, and have gained extensive international experience through postdoctoral research positions in Amsterdam (S2 Group, VU Amsterdam), Stuttgart (ICM, University of Stuttgart), and Porto (INESC TEC, University of Porto).
       My research focuses on sustainable software engineering for cyber-physical systems, including robotics and the Internet of Things (IoT). I am particularly interested in robotics projects using the Robot Operating System (ROS).
     skills:
-  enable: true
-  title: "My interests lay in:"
-  items:
-    - "Software Engineering: Software Architecture, Software Sustainability, and Open-source Software Collaboration"
-
-    - "Artificial Intelligence: Explainable AI, AI for Software Engineering, AI for Robotics, and Green/Sustainable/Ethical AI"
-       
-    - "Robotics: Robotics Software, ROS Ecosystem, Energy Efficienty Robotics, Adaptive Robotics Software, andExplainable Robotics"
+      enable: true
+      title: "My interests lay in:"
+      category: "Software Engineering"
+        topics: 
+          - "Software Architecture"
+          - "Software Sustainability"
+          - "Open-source Software Collaboration"
+      category: "Artificial Intelligence"
+        topics: 
+          - "Explainable AI"
+          - "AI for Software Engineering"
+          - "AI for Robotics"
+          - "Green/Sustainable/Ethical AI"
+      category: "Robotics"
+        topics:
+          - "Robotics Software"
+          - "ROS Ecosystem"
+          - "Energy Efficienty Robotics"
+          - "Adaptive Robotics Software"
+          - "Explainable Robotics"
 
   # Experience
   experience:

@@ -154,24 +154,9 @@ params:
       enable: true
       title: "My interests lay in:"
       items:
-        - category: "Software Engineering"
-          topics: 
-            - "Software Architecture"
-            - "Software Sustainability"
-            - "Open-source Software Collaboration"
-        - category: "Artificial Intelligence"
-          topics: 
-            - "Explainable AI"
-            - "AI for Software Engineering"
-            - "AI for Robotics"
-            - "Green/Sustainable/Ethical AI"
-        - category: "Robotics"
-          topics:
-            - "Robotics Software"
-            - "ROS Ecosystem"
-            - "Energy Efficienty Robotics"
-            - "Adaptive Robotics Software"
-            - "Explainable Robotics"
+        - "Software Engineering: Software Architecture, Software Sustainability, Open-source Software Collaboration"
+        - "Artificial Intelligence: Explainable AI, AI for Software Engineering, AI for Robotics, Green / Sustainable / Ethical AI"
+        - "Robotics: Robotics Software, ROS Ecosystem, Energy-Efficient Robotics, Adaptive Robotics Software, Explainable Robotics"
 
   # Experience
   experience:

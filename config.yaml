@@ -149,21 +149,32 @@ params:
       I am an Associate Professor at the University of Southern Denmark (SDU) in Vejle. I am currently on leave from my associate professorship at the Federal University of Technology – Paraná (UTFPR), Brazil. At SDU, I teach Software Engineering courses.
       In Brazil, I previously taught Software Engineering and Distributed Programming, served as one of the leaders of the IntelAgir research group, and worked on multiple research and innovation projects. I remain a Permanent Professor in the PPGCA Master’s Program at UTFPR in Curitiba, where I continue to collaborate remotely.
       I hold a Ph.D. in Software Engineering from IMT Atlantique in Nantes, France, and have gained extensive international experience through postdoctoral research positions in Amsterdam (S2 Group, VU Amsterdam), Stuttgart (ICM, University of Stuttgart), and Porto (INESC TEC, University of Porto).
-      My research focuses on software engineering for cyber-physical and cybernetic systems, including robotics and the Internet of Things (IoT). I am particularly interested in industrial robotics and collaborative projects using the Robot Operating System (ROS).
+      My research focuses on sustainable software engineering for cyber-physical systems, including robotics and the Internet of Things (IoT). I am particularly interested in robotics projects using the Robot Operating System (ROS).
     skills:
-      enable: true
-      title: "Here are a few technologies I've been working with recently:"
-      items:
-        - "Machine Learning"
-        - "Robots and Arduino"
-        - "ROS"
-        - "MQTT"
-        - "C++"
-        - "Python"
-        - "Java"
-        - "Angular"
-        - "Node.js"
-        - "Elixir"
+  enable: true
+  title: "My interests lay in:"
+  items:
+    - category: "Software Engineering"
+      topics:
+        - "Software Evolution"
+        - "Software Architecture"
+        - "Software Sustainability"
+        - "Open-source Software Collaboration"
+
+    - category: "Artificial Intelligence"
+      topics:
+        - "Explainable AI"
+        - "AI for Software Engineering"
+        - "AI for Robotics"
+        - "Green/Sustainable/Ethical AI"
+       
+    - category: "Robotics"
+      topics:
+        - "Robotics Software"
+        - "ROS Ecosystem"
+        - "Energy Efficienty Robotics"
+        - "Adaptive Robotics Software"
+        - "Explainable Robotics"
 
   # Experience
   experience:
@@ -347,7 +358,7 @@ params:
   contact:
     enable: true
     # title: "Custom Name"
-    content: I am always open for adventures and exciting collaborations!
+    content: I am always open for new adventures and exciting collaborations!
     email: michelalbonico@utfpr.edu.br, mical@mmmi.sdu.dk
     btnName: Mail me
     # formspree:

@@ -166,31 +166,26 @@ params:
       - job: "Software and Sustainability Engineering (S2E)"
         company: "SDU, Vejle"
         companyUrl: "https://#"
-        date: "Jan 2026 - present"
         content: "Laboratory focused on a more sustainable software product and its development".
         
       - job: "IntelAgir Research Group"
         company: "UTFPR"
         companyUrl: "https://intelagir-research-group.github.io/"
-        date: "Jan 2018 - present"
         content: "Research laboratory focused on intelligent systems."
 
       - job: "DECO Lab"
         company: "SDU, Odense"
         companyUrl: "https://www.sdu.dk/en/forskning/cis/laboratories/deco-lab"
-        date: "Mar 2026 - present"
         content: "Advancing the knowledge in software engineering for distributed systems."
 
       - job: "CoSE Lab"
         company: "SDU, Odense"
         companyUrl: "https://www.sdu.dk/en/forskning/cis/laboratories/cose-lab"
-        date: "Mar 2026 - present"
         content: "Empirical studies of software development technologies and practices."
 
       - job: "SE4CPS Lab"
         company: "SDU, Odense"
         companyUrl: "https://#"
-        date: "Jan 2026 - present"
         content: "Research laboratory focused on Software Engineering for Cyber Physical Systems (CPS)."
 
   #Education

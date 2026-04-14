@@ -1,16 +1,18 @@
 title: "Professor Michel Albonico"
-email: mical@mmmi.sdu.dk
+email: "mical@mmmi.sdu.dk"
 description: "Associate Professor of Software Engineering at SDU, Vejle"
+
 baseurl: ""
-url: "[michelalbonico.github.io](https://michelalbonico.github.io)"
+url: "https://michelalbonico.github.io"
+
 theme: minima
 markdown: kramdown
 
 # Social links
-github_username: michelalbonico
-google_scholar: [scholar.google.com](https://scholar.google.com/citations?user=pazJN8cAAAAJ&hl=en)
-orcid: [orcid.org](https://orcid.org/0000-0003-3606-3444)
-linkedin: [linkedin.com](https://www.linkedin.com/in/michel-albonico-6012214a/)
+github_username: "michelalbonico"
+google_scholar: "https://scholar.google.com/citations?user=pazJN8cAAAAJ&hl=en"
+orcid: "https://orcid.org/0000-0003-3606-3444"
+linkedin: "https://www.linkedin.com/in/michel-albonico-6012214a/"
 
 # Navigation links
 header_pages:

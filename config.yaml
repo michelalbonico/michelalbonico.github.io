@@ -163,7 +163,7 @@ params:
     enable: true
     title: "My LABs"
     items:
-     - job: "Software and Sustainability Engineering (S2E)"
+      - job: "Software and Sustainability Engineering (S2E)"
         company: "SDU, Vejle"
         companyUrl: "https://#"
         date: "Jan 2026 - present"
@@ -174,7 +174,7 @@ params:
           enable: false
           content: I worked as a software developer for more than one year in Amazon.
         content: "Laboratory focused on a more sustainable software product and its development".
-     
+        
       - job: "IntelAgir Research Group"
         company: "UTFPR"
         companyUrl: "https://intelagir-research-group.github.io/"

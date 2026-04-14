@@ -19,6 +19,7 @@ header_pages:
   - about.md
   - research.md
   - teaching.md
+  - projects.md
   - cv.md
 
 sass:

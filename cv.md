@@ -3,10 +3,11 @@ layout: page
 title: "Curriculum Vitae"
 ---
 
-You can download my full CV [here](assets/Jane_Doe_CV.pdf).
+You can download my full CV [here](assets/MyCV.pdf).
 
 ---
 
 ### Education
-- Ph.D., Computer Science — Example Institute, 2012  
-- M.Sc., Applied Mathematics — University of Somewhere, 2007
+- Ph.D., Software Engineering - IMT Atlantique Bretagne-Pays de la Loire — Nantes, France (2017)
+- M.Sc., Computer Science - Federal University of Paraná (UFPR) — Curitiba, Brazil (2011)
+

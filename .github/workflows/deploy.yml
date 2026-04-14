@@ -19,7 +19,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        gem install bundler jekyll
+        gem install bundler jekyll minima
         bundle install || true
 
     - name: Build the website

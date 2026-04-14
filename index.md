@@ -12,6 +12,6 @@ I'm **Professor Michel Albonico**, a faculty member in the Centre of Software Te
 
 My research focuses on software engineering for robotics, making robotics software systems more reliable and sustainable. In robotics, I am particularly interested in projects based on ROS, where the main focus is to improve the software development pipeline and the quality of robotic software products.
 
-You can find details about my **[research](research.md)**, **[publications](publications.md)**, and **[teaching](teaching.md)** here.
+You can find details about my **[research](research.md)** and **[teaching](teaching.md)** here.
 
 <div style="clear: both;"></div>

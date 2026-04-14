@@ -18,8 +18,6 @@ linkedin: "https://www.linkedin.com/in/michel-albonico-6012214a/"
 header_pages:
   - about.md
   - research.md
-  - teaching.md
-  - projects.md
   - cv.md
 
 sass:

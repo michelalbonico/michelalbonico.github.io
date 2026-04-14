@@ -161,7 +161,7 @@ params:
   # Experience
   experience:
     enable: true
-     title: "My LABs"
+    title: "My LABs"
     items:
      - job: "Software and Sustainability Engineering (S2E)"
         company: "SDU, Vejle"

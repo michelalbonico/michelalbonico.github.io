@@ -170,39 +170,24 @@ params:
         featuredLink:
           enable: false
           url: "https://example.com"
-        info:
-          enable: false
-          content: I worked as a software developer for more than one year in Amazon.
         content: "Laboratory focused on a more sustainable software product and its development".
         
       - job: "IntelAgir Research Group"
         company: "UTFPR"
         companyUrl: "https://intelagir-research-group.github.io/"
         date: "Jan 2018 - present"
-        featuredLink:
-          enable: false
-          name: "View the project"
-          url: "https://example.com"
         content: "Research laboratory focused on intelligent systems."
 
       - job: "DECO Lab"
         company: "SDU, Odense"
         companyUrl: "https://www.sdu.dk/en/forskning/cis/laboratories/deco-lab"
         date: "Mar 2026 - present"
-        info:
-          enable: false
-        featuredLink:
-          enable: false
-          url: "https://example.com"
         content: "Advancing the knowledge in software engineering for distributed systems."
 
       - job: "CoSE Lab"
         company: "SDU, Odense"
         companyUrl: "https://www.sdu.dk/en/forskning/cis/laboratories/cose-lab"
         date: "Mar 2026 - present"
-        featuredLink:
-          enable: false
-          url: "https://example.com"
         content: "Empirical studies of software development technologies and practices."
 
       - job: "SE4CPS Lab"

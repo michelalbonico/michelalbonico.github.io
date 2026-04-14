@@ -160,7 +160,7 @@ params:
 
   # Experience
   experience:
-    enable: true
+    enable: false
     title: "My LABs"
     items:
       - job: "Software and Sustainability Engineering (S2E)"

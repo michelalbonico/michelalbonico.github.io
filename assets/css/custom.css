@@ -1,0 +1,42 @@
+body {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+body.dark-mode {
+  background-color: #121212;
+  color: #f1f1f1;
+}
+
+body.dark-mode .site-header,
+body.dark-mode .site-footer,
+body.dark-mode .page-content {
+  background-color: #121212;
+  color: #f1f1f1;
+}
+
+body.dark-mode a {
+  color: #8ab4f8;
+}
+
+body.dark-mode .site-title,
+body.dark-mode .site-nav .page-link {
+  color: #f1f1f1;
+}
+
+.theme-toggle {
+  position: fixed;
+  top: 15px;
+  right: 20px;
+  z-index: 1000;
+  background: #333;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 8px 12px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.theme-toggle:hover {
+  opacity: 0.9;
+}

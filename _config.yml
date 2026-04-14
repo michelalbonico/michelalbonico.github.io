@@ -21,3 +21,6 @@ header_pages:
   - publications.md
   - teaching.md
   - cv.md
+
+sass:
+  style: compressed

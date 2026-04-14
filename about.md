@@ -1,9 +1,7 @@
 ---
 layout: page
-title: "About"
+title: "About Me"
 ---
-
-# About Me
 
 I am **Professor Michel Albonico**, an Associate Professor of Software Engineering at the Centre of Software Technology, University of Southern Denmark (SDU), in Vejle, Denmark.
 

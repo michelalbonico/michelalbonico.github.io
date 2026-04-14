@@ -1,9 +1,7 @@
 ---
 layout: page
-title: "Research"
+title: "My Research"
 ---
-
-# Research
 
 My research focuses on sustainable software engineering for cyber-physical systems, especially robotics and Robot Operating System (ROS)-based systems.
 

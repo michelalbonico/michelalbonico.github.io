@@ -167,9 +167,6 @@ params:
         company: "SDU, Vejle"
         companyUrl: "https://#"
         date: "Jan 2026 - present"
-        featuredLink:
-          enable: false
-          url: "https://example.com"
         content: "Laboratory focused on a more sustainable software product and its development".
         
       - job: "IntelAgir Research Group"

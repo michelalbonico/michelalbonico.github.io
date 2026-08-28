@@ -49,8 +49,6 @@ My scholar profile can be seen [here](https://scholar.google.com/citations?user=
 
 ## Research Labs and Groups
 
-1. S2E Lab - Software and Sustainability Engineering, SDU Vejle
-2. DECO Lab - Distributed Edge and Cloud Computing, SDU Odense
-3. CoSE Lab - Coding and Software Engineering, SDU Odense
-4. SE4CPS Lab - Software Engineering for Cyber Physical Systems, SDU Odense
-5. IntelAgir Research Group - Inteligent Systems, UTFPR Brazil
+1. CoSE Lab - Coding and Software Engineering, SDU Odense
+2. SE4CPS Lab - Software Engineering for Cyber Physical Systems, SDU Odense and Vejle
+3. IntelAgir Research Group - Intelligent Systems, UTFPR, Brazil (previously as head, now as external colab)
